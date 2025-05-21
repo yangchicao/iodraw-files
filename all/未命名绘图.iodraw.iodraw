@@ -74,10 +74,7 @@
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4HLPVfqJ4c3OCzDvkEJN-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;得到最短路径和最小代价&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="650" width="630" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4HLPVfqJ4c3OCzDvkEJN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.095;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cLrWVGJbheOL30dVP1UG-27" target="4HLPVfqJ4c3OCzDvkEJN-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="70" y="640" width="630" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
