@@ -68,7 +68,7 @@
         <mxCell id="4HLPVfqJ4c3OCzDvkEJN-0" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;选择坐标文件或生成随机坐标文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4HLPVfqJ4c3OCzDvkEJN-5" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4HLPVfqJ4c3OCzDvkEJN-5" value="得到最小路径和最小代价" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="640" width="630" height="60" as="geometry" />
         </mxCell>
       </root>
