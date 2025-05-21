@@ -50,8 +50,8 @@
         </mxCell>
         <mxCell id="4HLPVfqJ4c3OCzDvkEJN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="320" as="targetPoint" />
-            <mxPoint x="530.0000000000002" y="220" as="sourcePoint" />
+            <mxPoint x="580" y="320" as="targetPoint" />
+            <mxPoint x="410" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4HLPVfqJ4c3OCzDvkEJN-0" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;选择坐标文件或生成随机坐标文件&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
